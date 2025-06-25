@@ -1,7 +1,0 @@
-*.exe
-/password-cracker
-*.log
-.idea/
-.vscode/
-go.mod
-go.sum
